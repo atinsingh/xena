@@ -6,8 +6,8 @@ module.exports = {
   plugins: [{
     resolve: 'gatsby-source-contentful',
     options: {
-      "accessToken": "7273727827",
-      "spaceId": ""
+      "accessToken": "LA-z0Ctcv-D-h2-a_4bEQjrom6PDCe4a506KfKEa7VM",
+      "spaceId": "54c7bxy0ugpt"
     }
   }, "gatsby-plugin-postcss", {
     resolve: 'gatsby-plugin-google-analytics',
