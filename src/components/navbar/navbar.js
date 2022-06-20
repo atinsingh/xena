@@ -23,7 +23,6 @@ import {
 } from '@heroicons/react/outline'
 import { ChevronDownIcon } from '@heroicons/react/solid'
 import Logo from '../../images/plogo.svg' 
-import Img from "gatsby-image"
 import "./navbar.css"
 import { NavPopOver } from './navpop-panel'
 

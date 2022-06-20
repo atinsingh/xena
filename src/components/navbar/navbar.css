@@ -2,7 +2,7 @@
     @apply relative bg-white
 }
 .navbar-layout {
-    @apply mx-auto flex justify-between items-center px-4 py-5 sm:px-6 sm:py-4 lg:px-8 md:justify-start md:space-x-10
+    @apply mx-auto 2xl:container max-w-7xl flex justify-between items-center px-4 py-5 sm:px-6 sm:py-4 lg:px-8 md:justify-start md:space-x-10
 }
 .logo {
     @apply w-auto h-10 lg:h-12 md:h-12 sm:h-10
